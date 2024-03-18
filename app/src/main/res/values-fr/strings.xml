@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">projet144.2</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="alex_dastjerdi">Issa le plus beau</string>
+    <string name="search_anything">Chercher dans notre catalogue</string>
+    <string name="pluss_ultra_ndiscount">PLUSS ULTRA\nRéduction !!!</string>
+    <string name="buy_now">Acheter</string>
+    <string name="explore_popular_categories">Explorer les catégories populaires</string>
+    <string name="phone">Téléphone</string>
+    <string name="headphone">Casque</string>
+    <string name="viewall">Voir tout</string>
+    <string name="popular_product">Produit populaire</string>
+    <string name="see_all">Voir tout</string>
+    <string name="explorer">Explorateur</string>
+    <string name="wishlist">Favoris</string>
+    <string name="cart">Panier</string>
+    <string name="profile">Profil</string>
+    <string name="rating">Note</string>
+    <string name="reviews">Avis</string>
+    <string name="buy_now2">Acheter maintenant</string>
+    <string name="your_cart_is_empty">Votre panier est vide</string>
+    <string name="my_cart">Mon panier</string>
+    <string name="order_summary">Résumé de la commande</string>
+    <string name="subtotal">Sous-total</string>
+    <string name="total_tax">Total des taxes</string>
+    <string name="total">Total</string>
+    <string name="information">Information</string>
+    <string name="payment_method">Méthode de paiement</string>
+    <string name="your_delivery_address">Votre adresse de livraison</string>
+    <string name="cash">Carte bancaire</string>
+    <string name="ordernow">Commander maintenant</string>
+    <string name="delivery">Livraison</string>
+</resources>
